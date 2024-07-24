@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+span {
+  padding: 20px;
+  background-color: beige;
+  border-radius: 10px;
+}
+
+span p {
+  color: #333;
+  background-color: burlywood;
+}
